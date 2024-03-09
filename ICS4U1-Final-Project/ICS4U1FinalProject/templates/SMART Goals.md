@@ -1,0 +1,13 @@
+##SPECIFIC
+##MEASURABLE
+##ATTAINABLE
+##RELEVANT
+##TIME-BOUND
+
+#Your SMART Goal Statement:
+
+TimeLine:
+-
+-
+-
+-
